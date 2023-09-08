@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "",
+  footer: "<a href=\"https://vuepress.vuejs.org/\"><img src=\"https://img.shields.io/badge/VuePress-2.0.0-brightgreen?style=flat&logo=vue.js\" alt=\"VuePress\"></a> <a href=\"https://github.com/vuepress-theme-hope/vuepress-theme-hope\"><img src=\"https://img.shields.io/badge/Theme-Hope-3eaf7c?style=flat\" alt=\"Theme\"></a> <a href=\"https://vercel.com/\"><img src=\"https://img.shields.io/badge/Vercel-gray?style=flat&logo=vercel\" alt=\"Vercel\"></a> <a href=\"https://www.huaweicloud.com/\"><img src=\"https://img.shields.io/badge/云托管-华为-red?style=flat&logo=huawei\" alt=\"云托管\"></a> <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"><img src=\"https://img.shields.io/badge/版权-BY--NC--SA-orange?style=flat&logo=creative-commons\" alt=\"CC\"></a><br/><a href=\"http://beian.miit.gov.cn/\" target=\"_blank\" rel=\"nofollow noopener\"><img src=\"https://pic.mufeng086.com/i/2023/09/08/goywaa.webp\" alt=\"工信部\" width=\"20\" height=\"20\"> 苏ICP备2023024709号</a> <a href=\"https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32060202001065\" target=\"_blank\"><img src=\"https://pic.mufeng086.com/i/2023/09/08/gswv7b.webp\" alt=\"网安\"> 苏公网安备32060202001065号</a> <img src=\"https://pic.mufeng086.com/i/2023/09/08/gu9c99.webp\" alt=\"萌ICP\" width=\"20\" height=\"20\"><a href=\"https://icp.gov.moe/?keyword=20238186\" target=\"_blank\">萌ICP备20238186号</a>",
 
   displayFooter: true,
 
