@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28f9eb6f","path":"/tag/ping/","title":"标签: Ping","lang":"zh-CN","frontmatter":{"title":"标签: Ping","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"Ping","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"filePathRelative":null,"excerpt":"","readingTime":{"minutes":0,"words":0}}');export{e as data};
